@@ -2,7 +2,7 @@
 #EXTINF:-1,AL: Globi TV
 http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13660
 #EXTINF:-1,AL: TV2 Gostivar
-http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13661
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/169842
 #EXTINF:-1,AL: Top Channel HD
 http://premium-kosova.hopto.me:88/iptvtree/dw496Q6EGMZq/1401
 #EXTINF:-1,AL: Top Channel 4K
